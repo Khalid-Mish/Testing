@@ -1,6 +1,5 @@
-# Testing
-Testing for Software Tools
+## Read me file
 
-Testing 123
+This repository to just for me to test how to use Markdown.
 
-I am now editing this file
+
